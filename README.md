@@ -5,7 +5,7 @@ https://orcid.org/0009-0005-7237-7776
 How to use
 
 You can run the script either in Google Colab or locally on your computer.
-You can choose this image as an example:
+You can use this image as an example:
 <img width="1300" height="1300" alt="image" src="https://github.com/user-attachments/assets/f5ef8df7-022f-48f7-828f-e3fb8df165be" />
 
 
