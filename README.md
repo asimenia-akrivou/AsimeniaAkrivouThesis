@@ -5,6 +5,9 @@ https://orcid.org/0009-0005-7237-7776
 How to use
 
 You can run the script either in Google Colab or locally on your computer.
+You can choose this image as an example:
+<img width="1300" height="1300" alt="image" src="https://github.com/user-attachments/assets/f5ef8df7-022f-48f7-828f-e3fb8df165be" />
+
 
 In Google Colab
 	1.	Open the notebook and click Run all.
@@ -32,5 +35,6 @@ What kind of images to use
 ⸻
 
 The script separates each dominant color of the image into its own layer, allowing you to view and use each color region individually.
-<img width="2754" height="1174" alt="image" src="https://github.com/user-attachments/assets/f569ad9f-463b-4a63-8315-33b0f888d355" />
+<img width="1146" height="528" alt="image" src="https://github.com/user-attachments/assets/316c32a9-7dc3-4d7d-8973-2699daa71b41" />
+
 
